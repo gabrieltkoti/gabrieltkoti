@@ -27,4 +27,4 @@ Formado em Ciência da Computação pelo Centro Universitário Sagrado Coração
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieltkoti&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieltkoti&show)
