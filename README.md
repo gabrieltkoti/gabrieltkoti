@@ -2,6 +2,9 @@
 
 Formado em Ciência da Computação pelo Centro Universitário Sagrado Coração de Jesus - UNISAGRADO, em Bauru, São Paulo.
 
+Entusiasta das novas tecnologias e áreas correlatas.
+Profissional com 10 anos de experiência na área automação industrial, atuando em expecificações de componentes para montagem de painéis de comando, programação de CLP utilizando linguagem de programação baseada em C++.
+
 <!--🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. -->
